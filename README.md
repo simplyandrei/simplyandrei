@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/simplyandrei/simplyandrei/blob/main/Andrei%20Agustin.gif?raw=true"  />
+  <img src="https://github.com/simplyandrei/simplyandrei/blob/main/Andrei%20Agustin.gif?raw=true"  />
 </div>
 
 ###
