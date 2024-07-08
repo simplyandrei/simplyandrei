@@ -1,14 +1,75 @@
+<div align="center">
+  <img height="200" src="https://github.com/simplyandrei/simplyandrei/blob/main/Andrei%20Agustin.gif?raw=true"  />
+</div>
 
-[![@simplyandrei](https://github.com/simplyandrei/simplyandrei/blob/main/Andrei%20Agustin.gif?raw=true)](https://www.facebook.com/sino.si.drei)
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
+###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=simplyandrei&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=simplyandrei&theme=monokai&hide_border=true)
+<h4 align="left">Socials:</h4>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=simplyandrei&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="left">
+  <a href="https://www.instagram.com/sino.si.drei/https://www.instagram.com/sino.si.drei/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/sino.si.drei/https://www.facebook.com/sino.si.drei/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="left">How to reach me:</h4>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=_simply.drei&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+</div>
+
+###
+
+<h4 align="left">Current Status:</h4>
+
+###
+
+<p align="left">📘 Senior High School Student<br>➗ Science, Technology, Mathematics & Engineering</p>
+
+###
+
+<h4 align="left">Tools I work upon:</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h4 align="left">Profile visits:</h4>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/simplyandrei/count.svg?"  />
+</div>
+
+###
+
+<h4 align="left">Extra:</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simplyandrei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=simplyandrei&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
