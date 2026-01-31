@@ -1,75 +1,15 @@
-<div align="center">
-  <img src="https://github.com/simplyandrei/simplyandrei/blob/main/Andrei%20Agustin.gif?raw=true"  />
-</div>
+# Hi 👋, I'm Andrei Agustin
 
-###
+### Electronics Engineering Student | CIT-U
 
-<h4 align="left">Socials:</h4>
+- 🌱 I'm currently learning **Data Science & Cybersecurity**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/simplyandrei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="simplyandrei" height="30" width="40" /></a>
+<a href="https://instagram.com/and.rei_only" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="and.rei_only" height="30" width="40" /></a>
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/sino.si.drei/https://www.instagram.com/sino.si.drei/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/sino.si.drei/https://www.facebook.com/sino.si.drei/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
 
-###
-
-<h4 align="left">How to reach me:</h4>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=_simply.drei&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-</div>
-
-###
-
-<h4 align="left">Current Status:</h4>
-
-###
-
-<p align="left">📘 Senior High School Student<br>➗ Science, Technology, Mathematics & Engineering</p>
-
-###
-
-<h4 align="left">Tools I work upon:</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
-
-###
-
-<h4 align="left">Profile visits:</h4>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/simplyandrei/count.svg?"  />
-</div>
-
-###
-
-<h4 align="left">Extra:</h4>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simplyandrei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=simplyandrei&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
